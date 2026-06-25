@@ -124,7 +124,7 @@ Les niveaux d'alerte ne sont pas inventés : ils viennent directement des recomm
 
 ## Auteurs
 
-Projet réalisé par **David GWODOG** et **Demba Sow Achta**, en Master of Science (MSc) M2 Intelligence Artificielle à l'ECE Paris (2025/2026), sous l'encadrement de **Mme Yosra HAJJAJI**.
+Projet réalisé par **Demba Sow Achta**, en Master of Science (MSc) M2 Intelligence Artificielle à l'ECE Paris (2025/2026), sous l'encadrement de **Mme Yosra HAJJAJI**.
 
 ## Licence
 
